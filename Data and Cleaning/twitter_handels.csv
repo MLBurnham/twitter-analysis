@@ -1,0 +1,607 @@
+Party	Name	Handle	Class
+right	glenn beck	glennbeck	Pundit
+right	Michelle Malkin	michellemalkin	Pundit
+right	Ben Shapiro	benshapiro	Pundit
+right	Steven Crowder	scrowder	Pundit
+right	Sean Hannity	seanhannity	Pundit
+right	Rush Limbaugh	rushlimbaugh	Pundit
+right	Alex Jones	RealAlexJones	Pundit
+right	Ann Coulter	AnnCoulter	Pundit
+right	Laura Ingraham	IngrahamAngle	Pundit
+right	Bill O'Reilly	BillOReilly	Pundit
+right	Tucker Carlson	TuckerCarlson	Pundit
+right	Mark Levin	marklevinshow	Pundit
+right	Dana Loesch	Dloesch	Pundit
+right	Lou Dobbs	LouDobbs	Pundit
+right	Jeanine Pirro	JudgeJeanine	Pundit
+right	Tomi Lahren	TomiLahren	Pundit
+right	Dana Perino	DanaPerino	Pundit
+right	Sarah Palin	SarahPalinUSA	Pundit
+right	Brit Hume	brithume	Pundit
+right	Dennis Miller	DennisDMZ	Pundit
+right	Jonah Goldberg	JonahNRO	Pundit
+right	Dennis Prager	DennisPrager	Pundit
+right	Jordan Peterson	jordanbpeterson	Pundit
+right	Lauren Southern	Lauren_Southern	Pundit
+right	David Brooks	nytdavidbrooks	Pundit
+right	Charles Krauthammer	krauthammer	Pundit
+right	Erick Erickson	EWErickson	Pundit
+left	Ezra Klein	ezraklein	Pundit
+left	Rachel Maddow	MaddowBlog	Pundit
+left	Paul Krugman	paulkrugman	Pundit
+left	Jessica Valenti	Jessica Valenti	Pundit
+left	Chris Hayes	chrislhayes	Pundit
+left	Thom Hartmann	Thom_Hartmann	Pundit
+left	lawrence O'Donnell	Lawrence	Pundit
+left	Jon Favreau	jonfavs	Pundit
+left	glenn greenwald	ggreenwald	Pundit
+left	mehdi hasan	mehdirhasan	Pundit
+left	Alan Colmes	AlanColmes	Pundit
+left	steve benen	stevebenen	Pundit
+left	duncan black	Atrios	Pundit
+left	Kevin Drum	kdrum	Pundit
+left	Cenk Uygur	cenkuygur	Pundit
+left	Matthew Yglesias	mattyglesias	Pundit
+left	michael moore	MMFlint	Pundit
+left	Patrisse Cullors	OsopePatrisse	Pundit
+left	Jeet Heer	HeerJeet	Pundit
+left	Yashar Ali	yashar	Pundit
+left	Parker Molloy	ParkerMolloy	Pundit
+left	David Hogg	davidhogg111	Pundit
+left	Matt O'Brien	ObsoleteDogma	Pundit
+left	Imani Gandy	AngryBlackLady	Pundit
+left	Bill McKibben	billmckibben	Pundit
+left	Melissa Harris-Perry	MHarrisPerry	Pundit
+Republican	"Sullivan, Dan"	SenDanSullivan	Politician
+Republican	"Bilirakis, Gus M."	RepGusBilirakis	Politician
+Republican	"Crenshaw, Ander"	AnderCrenshaw	Politician
+Democratic	"Donnelly, Joe"	SenDonnelly	Politician
+Republican	"Emmer, Tom"	RepTomEmmer	Politician
+Republican	"Ernst, Joni"	joniernst	Politician
+Democratic	"Feinstein, Dianne"	SenFeinstein	Politician
+Democratic	"Grijalva, Raul M."	RepRaulGrijalva	Politician
+Republican	"Holding, George"	GeorgeHolding	Politician
+Republican	"Moran, Jerry"	JerryMoran	Politician
+Democratic	"Nolan, Richard M."	USRepRickNolan	Politician
+Republican	"Reed, Tom"	RepTomReed	Politician
+Republican	"Scott, Austin"	AustinScottGA08	Politician
+Democratic	"Scott, David"	repdavidscott	Politician
+Republican	"Stutzman, Marlin A."	RepStutzman	Politician
+Democratic	"Kaine, Tim"	timkaine	Politician
+Democratic	"Kildee, Daniel T."	RepDanKildee	Politician
+Republican	"Knight, Stephen"	SteveKnight25	Politician
+Republican	"Lamborn, Doug"	RepDLamborn	Politician
+Republican	"Ayotte, Kelly"	KellyAyotte	Politician
+Republican	"Nunes, Devin"	Rep_DevinNunes	Politician
+Democratic	"Payne, Donald M., Jr."	RepDonaldPayne	Politician
+Democratic	"Sanchez, Linda T."	RepLindaSanchez	Politician
+Democratic	"Torres, Norma J."	NormaJTorres	Politician
+Republican	"Joyce, David P."	RepDaveJoyce	Politician
+Republican	"Gohmert, Louie"	replouiegohmert	Politician
+Democratic	"Delaney, John K."	RepJohnDelaney	Politician
+Republican	"Fortenberry, Jeff"	JeffFortenberry	Politician
+Republican	"Williams, Roger"	RepRWilliams	Politician
+Republican	"King, Peter T."	RepPeteKing	Politician
+Republican	"Marchant, Kenny"	RepKenMarchant	Politician
+Republican	"Mulvaney, Mick"	RepMickMulvaney	Politician
+Republican	"Shuster, Bill"	RepBillShuster	Politician
+Republican	"Thune, John"	SenJohnThune	Politician
+Democratic	"Beyer, Donald S., Jr."	RepDonBeyer	Politician
+Democratic	"Cartwright, Matt"	RepDonBeyer	Politician
+Republican	"Ellmers, Renee L."	RepReneeEllmers	Politician
+Democratic	"Boxer, Barbara"	SenatorBoxer	Politician
+Republican	"Flake, Jeff"	JeffFlake	Politician
+Republican	"Hardy, Cresent"	RepHardy	Politician
+Democratic	"Higgins, Brian"	RepBrianHiggins	Politician
+Democratic	"Walz, Timothy J."	RepTimWalz	Politician
+Democratic	"Warner, Mark R."	MarkWarner	Politician
+Republican	"Walden, Greg"	repgregwalden	Politician
+Democratic	"Bera, Ami"	RepBera	Politician
+Democratic	"Cleaver, Emanuel"	repcleaver	Politician
+Republican	"Cook, Paul"	RepPaulCook	Politician
+Democratic	"Cummings, Elijah E."	RepCummings	Politician
+Republican	"Denham, Jeff"	RepJeffDenham	Politician
+Republican	"Duncan, John J., Jr."	RepJohnDuncanJr	Politician
+Republican	"Hurt, Robert"	RepRobertHurt	Politician
+Republican	"Isakson, Johnny"	SenatorIsakson	Politician
+Republican	"King, Steve"	SteveKingIA	Politician
+Democratic	"Kuster, Ann M."	RepAnnieKuster	Politician
+Republican	"Loudermilk, Barry"	RepLoudermilk	Politician
+Republican	"Radewagen, Aumua Amata Coleman"	RepAmata	Politician
+Republican	"Salmon, Matt"	saknibcibgress	Politician
+Republican	"Schock, Aaron"	NA	Politician
+Democratic	"Scott, Robert C. &#34;Bobby&#34;"	repbobbyscott	Politician
+Republican	"Upton, Fred"	RepFredUpton	Politician
+Republican	"Barr, Andy"	RepAndyBarr	Politician
+Republican	"Bridenstine, Jim"	RepJBridenstine	Politician
+Democratic	"Clyburn, James E."	Clyburn	Politician
+Republican	"Fleming, John"	RepFleming	Politician
+Republican	"Grassley, Chuck"	ChuckGrassley	Politician
+Republican	"Lance, Leonard"	RepLanceNJ7	Politician
+Republican	"Long, Billy"	USRepLong	Politician
+Democratic	"McCollum, Betty"	BettyMcCollum04	Politician
+Republican	"Poliquin, Bruce"	RepPoliquin	Politician
+Republican	"Portman, Rob"	SenRobPortman	Politician
+Republican	"Ribble, Reid J."	RepRibble	Politician
+Republican	"Rooney, Thomas J."	TomRooney	Politician
+Republican	"Ryan, Paul"	RepPaulRyan	Politician
+Republican	"Womack, Steve"	rep_stevewomack	Politician
+Republican	"Young, David"	RepDavidYoung	Politician
+Republican	"Zinke, Ryan K."	RepRyanZinke	Politician
+Republican	"McCarthy, Kevin"	GOPLeader	Politician
+Republican	"Messer, Luke"	RepLukeMesser	Politician
+Republican	"Palmer, Gary J."	USRepGaryPalmer	Politician
+Republican	"Paulsen, Erik"	RepErikPaulsen	Politician
+Republican	"Rice, Tom"	RepTomRice	Politician
+Republican	"Rouzer, David"	RepDavidRouzer	Politician
+Democratic	"Sinema, Kyrsten"	RepSinema	Politician
+Democratic	"Ashford, Brad"	RepBradAshford	Politician
+Republican	"Boustany, Charles W., Jr."	NA	Politician
+Democratic	"Cardin, Benjamin L."	SenatorCardin	Politician
+Democratic	"Cohen, Steve"	RepCohen	Politician
+Democratic	"Crowley, Joseph"	repjoecrowley	Politician
+Republican	"Daines, Steve"	SteveDaines	Politician
+Democratic	"DeGette, Diana"	RepDianaDeGette	Politician
+Republican	"Dent, Charles W."	RepCharlieDent	Politician
+Democratic	"DeFazio, Peter A."	RepPeterDeFazio	Politician
+Republican	"Farenthold, Blake"	farenthold	Politician
+Republican	"Hultgren, Randy"	RepHultgren	Politician
+Democratic	"Veasey, Marc A."	RepVeasey	Politician
+Democratic	"Velazquez, Nydia M."	NydiaVelazquez	Politician
+Democratic	"Blumenthal, Richard"	SenBlumenthal	Politician
+Republican	"Burr, Richard"	SenatorBurr	Politician
+Republican	"Costello, Ryan A."	RepRyanCostello	Politician
+Republican	"Cotton, Tom"	SenTomCotton	Politician
+Democratic	"Huffman, Jared"	RepHuffman	Politician
+Republican	"Jones, Walter B., Jr."	RepWalterJones	Politician
+Democratic	"Kennedy, Joseph P., III"	RepJoeKennedy	Politician
+Republican	"McKinley, David B."	RepMcKinley	Politician
+Republican	"Palazzo, Steven M."	CongPalazzo	Politician
+Republican	"Scalise, Steve"	SteveScalise	Politician
+Democratic	"Schakowsky, Janice D."	janschakowsky	Politician
+Republican	"Scott, Tim"	SenatorTimScott	Politician
+Democratic	"Sires, Albio"	RepSires	Politician
+Republican	"Jordan, Jim"	Jim_Jordan	Politician
+Republican	"Katko, John"	RepJohnKatko	Politician
+Democratic	"Klobuchar, Amy"	amyklobuchar	Politician
+Republican	"Labrador, Raul R."	Raul_Labrador	Politician
+	"LaHood, Darin"	ElectLaHood	Politician
+Democratic	"Perlmutter, Ed"	RepPerlmutter	Politician
+Republican	"Ratcliffe, John"	RepRatcliffe	Politician
+Republican	"Rogers, Mike D."	RepMikeRogersAL	Politician
+Republican	"Rothfus, Keith J."	KeithRothfus	Politician
+Republican	"Walorski, Jackie"	RepWalorski	Politician
+Republican	"Walters, Mimi"	RepMimiWalters	Politician
+Democratic	"Beatty, Joyce"	RepBeatty	Politician
+Republican	"Calvert, Ken"	KenCalvert	Politician
+Republican	"Capito, Shelley Moore"	SenCapito	Politician
+Democratic	"Doggett, Lloyd"	RepLloydDoggett	Politician
+Republican	"Fincher, Stephen Lee"	RepFincherTN08	Politician
+Republican	"Forbes, J. Randy"	Randy_Forbes	Politician
+Democratic	"Jeffries, Hakeem S."	RepJeffries	Politician
+Republican	"Sensenbrenner, F. James, Jr."	JimPressOffice	Politician
+Democratic	"Serrano, Jose E."	RepJoseSerrano	Politician
+Democratic	"Swalwell, Eric"	RepSwalwell	Politician
+Democratic	"Kind, Ron"	RepRonKind	Politician
+Republican	"LaMalfa, Doug"	RepLaMalfa	Politician
+Democratic	"Levin, Sander M."	repsandylevin	Politician
+Democratic	"Lynch, Stephen F."	RepStephenLynch	Politician
+Democratic	"McGovern, James P."	RepMcGovern	Politician
+Democratic	"Merkley, Jeff"	SenJeffMerkley	Politician
+Republican	"Pearce, Stevan"	RepStevePearce	Politician
+Republican	"Poe, Ted"	JudgeTedPoe	Politician
+Republican	"Renacci, James B."	RepJimRenacci	Politician
+Democratic	"Carper, Thomas R."	SenatorCarper	Politician
+Republican	"Rogers, Harold"	RepHalRogers	Politician
+Democratic	"Casey, Robert P., Jr."	SenBobCasey	Politician
+Republican	"Walker, Mark"	RepMarkWalker	Politician
+Democratic	"Yarmuth, John A."	RepJohnYarmuth	Politician
+Republican	"Black, Diane"	RepDianeBlack	Politician
+Republican	"Brooks, Susan W."	SusanWBrooks	Politician
+Republican	"Burgess, Michael C."	michaelcburgess	Politician
+Democratic	"Castro, Joaquin"	JoaquinCastrotx	Politician
+Republican	"Coffman, Mike"	RepMikeCoffman	Politician
+Republican	"Conaway, K. Michael"	ConawayTX11	Politician
+Republican	"Gibbs, Bob"	RepBobGibbs	Politician
+Republican	"Graves, Tom"	RepTomGraves	Politician
+Republican	"Coats, Daniel"	SenDanCoats	Politician
+Republican	"Guthrie, Brett"	RepGuthrie	Politician
+Republican	"Issa, Darrell E."	DarrellIssa	Politician
+Democratic	"Coons, Christopher A."	ChrisCoons	Politician
+Republican	"Meehan, Patrick"	RepMeehan	Politician
+Democratic	"Moulton, Seth"	teammoulton	Politician
+Democratic	"Norton, Eleanor Holmes"	EleanorNorton	Politician
+Republican	"Nunnelee, Alan"	NA	Politician
+Democratic	"O'Rourke, Beto"	RepBetoORourke	Politician
+Republican	"Perdue, David"	SenDavidPerdue	Politician
+Republican	"Perry, Scott"	RepScottPerry	Politician
+Democratic	"Peters, Gary C."	SenGaryPeters	Politician
+Democratic	"Rangel, Charles B."	cbrangel	Politician
+Democratic	"Durbin, Richard"	SenatorDurbin	Politician
+Democratic	"Schiff, Adam B."	RepAdamSchiff	Politician
+Republican	"Stefanik, Elise M."	RepStefanik	Politician
+Republican	"Trott, David A."	repdavetrott	Politician
+Republican	"Weber, Randy K., Sr."	TXRandy14	Politician
+Republican	"Brat, Dave"	RepDaveBrat	Politician
+Democratic	"Capps, Lois"	RepLoisCapps	Politician
+Republican	"Cochran, Thad"	SenThadCochran	Politician
+Republican	"Collins, Chris"	RepChrisCollins	Politician
+Republican	"Culberson, John Abney"	CongCulberson	Politician
+Democratic	"Ellison, Keith"	keithellison	Politician
+Republican	"Gosar, Paul A."	RepGosar	Politician
+Democratic	"Grayson, Alan"	AlanGrayson	Politician
+Republican	"Hatch, Orrin G."	SenOrrinHatch	Politician
+Democratic	"Jackson Lee, Sheila"	JacksonLeeTX18	Politician
+Republican	"Allen, Rick W."	RepRickAllen	Politician
+Republican	"Babin, Brian"	RepBrianBabin	Politician
+Republican	"Brady, Kevin"	RepKevinBrady	Politician
+Republican	"Bishop, Rob"	RepHalRogers	Politician
+Republican	"Boozman, John"	JohnBoozman	Politician
+Democratic	"Brady, Robert A."	RepBrady	Politician
+Republican	"Chaffetz, Jason"	jasoninthehouse	Politician
+Democratic	"Deutch, Theodore E."	RepTedDeutch	Politician
+Republican	"Frelinghuysen, Rodney P."	USRepRodney	Politician
+Republican	"Gibson, Christopher P."	RepChrisGibson	Politician
+Republican	"Grothman, Glenn"	RepGrothman	Politician
+Republican	"Hoeven, John"	SenJohnHoeven	Politician
+Republican	"Huizenga, Bill"	RepHuizenga	Politician
+Republican	"Kelly, Mike"	MikeKellyPA	Politician
+Republican	"Kelly, Trent"	RepTrentKelly	Politician
+Democratic	"Leahy, Patrick J."	SenatorLeahy	Politician
+Democratic	"Murphy, Patrick"	PatrickMurphyFL	Politician
+Republican	"Rohrabacher, Dana"	DanaRohrabacher	Politician
+Democratic	"Schrader, Kurt"	RepSchrader	Politician
+Republican	"Webster, Daniel"	RepWebster	Politician
+Democratic	"DeLauro, Rosa L."	rosadelauro	Politician
+Democratic	"DeSaulnier, Mark"	RepDeSaulnier	Politician
+Republican	"Duffy, Sean P."	RepSeanDuffy	Politician
+Democratic	"Farr, Sam"	NA	Politician
+Democratic	"Foster, Bill"	RepBillFoster	Politician
+Democratic	"Fudge, Marcia L."	RepMarciaFudge	Politician
+Republican	"Goodlatte, Bob"	RepGoodlatte	Politician
+Republican	"Hurd, Will"	HurdOnTheHill	Politician
+Republican	"Westerman, Bruce"	RepWesterman	Politician
+Democratic	"Wyden, Ron"	RonWyden	Politician
+Democratic	"Bishop, Sanford D., Jr."	SanfordBishop	Politician
+Republican	"Blunt, Roy"	RoyBlunt	Politician
+Republican	"Boehner, John A."	SpeakerBoehner	Politician
+Republican	"Bost, Mike"	RepBost	Politician
+Republican	"Cassidy, Bill"	BillCassidy	Politician
+Republican	"Collins, Doug"	RepDougCollins	Politician
+Republican	"Lee, Mike"	SenMikeLee	Politician
+Republican	"Marino, Tom"	RepTomMarino	Politician
+Democratic	"Moore, Gwen"	RepGwenMoore	Politician
+Democratic	"Gutierrez, Luis V."	RepGutierrez	Politician
+Democratic	"Lee, Barbara"	RepBarbaraLee	Politician
+Republican	"Russell, Steve"	RepRussell	Politician
+Democratic	"Sanchez, Loretta"	LorettaSanchez	Politician
+Republican	"Shelby, Richard C."	SenShelby	Politician
+Democratic	"Smith, Adam"	RepAdamSmith	Politician
+Democratic	"Stabenow, Debbie"	SenStabenow	Politician
+Democratic	"Welch, Peter"	PeterWelch	Politician
+Republican	"Abraham, Ralph Lee"	RepAbraham	Politician
+Republican	"Barrasso, John"	SenJohnBarrasso	Politician
+Democratic	"Booker, Cory A."	CoryBooker	Politician
+Republican	"Cruz, Ted"	SenTedCruz	Politician
+Republican	"Enzi, Michael B."	SenatorEnzi	Politician
+Republican	"Fischer, Deb"	SenatorFischer	Politician
+Democratic	"Gallego, Ruben"	RepRubenGallego	Politician
+Democratic	"Franken, Al"	alfranken	Politician
+Democratic	"Loebsack, David"	daveloebsack	Politician
+Republican	"Lummis, Cynthia M."	CynthiaLummis	Politician
+Republican	"McCaul, Michael T."	RepMcCaul	Politician
+Republican	"Pompeo, Mike"	RepMikePompeo	Politician
+Democratic	"Richmond, Cedric L."	RepRichmond	Politician
+Republican	"Thornberry, Mac"	MacTXPress	Politician
+Democratic	"Tonko, Paul"	RepPaulTonko	Politician
+Democratic	"Udall, Tom"	SenatorTomUdall	Politician
+Democratic	"Warren, Elizabeth"	SenWarren	Politician
+Democratic	"Adams, Alma S."	RepAdams	Politician
+Republican	"Amodei, Mark E."	MarkAmodeiNV2	Politician
+Democratic	"Baldwin, Tammy"	SenatorBaldwin	Politician
+Democratic	"Clay, Wm. Lacy"	LacyClayMO1	Politician
+	"Davidson, Warren"	WarrenDavidson	Politician
+Republican	"Fitzpatrick, Michael G."	RepFitzpatrick	Politician
+Republican	"Garrett, Scott"	RepGarrett	Politician
+Republican	"Graham, Lindsey"	GrahamBlog	Politician
+Republican	"Westmoreland, Lynn A."	Westmoreland_GA	Politician
+Democratic	"Ruiz, Raul"	CongressmanRuiz	Politician
+Democratic	"Ryan, Tim"	RepTimRyan	Politician
+Republican	"Sanford, Mark"	RepSanfordSC	Politician
+Republican	"Inhofe, James M."	jiminhofe	Politician
+Independent	"King, Angus S., Jr."	SenAngusKing	Politician
+Democratic	"Lowenthal, Alan S."	RepLowenthal	Politician
+Democratic	"Lowey, Nita M."	NitaLowey	Politician
+Republican	"Rubio, Marco"	marcorubio	Politician
+Republican	"Benishek, Dan"	CongressmanDan	Politician
+Democratic	"Boyle, Brendan F."	RepBrendanBoyle	Politician
+Republican	"Brooks, Mo"	RepMoBrooks	Politician
+Democratic	"Brown, Corrine"	CorrineBrownCon	Politician
+Republican	"Foxx, Virginia"	virginiafoxx	Politician
+Republican	"Guinta, Frank C."	RepFrankGuinta	Politician
+Republican	"Hensarling, Jeb"	RepHensarling	Politician
+Republican	"Hunter, Duncan D."	Rep_Hunter	Politician
+Republican	"Aderholt, Robert B."	Robert_Aderholt	Politician
+Democratic	"Maloney, Carolyn B."	RepMaloney	Politician
+Republican	"Meadows, Mark"	RepMarkMeadows	Politician
+Democratic	"Norcross, Donald"	DonNorcross4NJ	Politician
+Republican	"Nugent, Richard B."	RepRichNugent	Politician
+Democratic	"Polis, Jared"	RepJaredPolis	Politician
+Republican	"Ross, Dennis A."	RepDennisRoss	Politician
+Democratic	"Roybal-Allard, Lucille"	RepRoybalAllard	Politician
+Democratic	"Ruppersberger, C. A. Dutch"	Call_Me_Dutch	Politician
+Republican	"Sessions, Pete"	PeteSessions	Politician
+Republican	"Stivers, Steve"	RepSteveStivers	Politician
+Republican	"Wenstrup, Brad R."	RepBradWenstrup	Politician
+Republican	"Yoder, Kevin"	RepKevinYoder	Politician
+Republican	"Yoho, Ted S."	RepTedYoho	Politician
+Republican	"Byrne, Bradley"	RepByrne	Politician
+Republican	"Clawson, Curt"	RepCurtClawson	Politician
+Democratic	"Heinrich, Martin"	MartinHeinrich	Politician
+Republican	"Heller, Dean"	SenDeanHeller	Politician
+Democratic	"Johnson, Henry C. &#34;Hank,&#34; Jr."	RepHankJohnson	Politician
+Democratic	"Bonamici, Suzanne"	RepBonamici	Politician
+Democratic	"Kirkpatrick, Ann"	Ann_Kirkpatrick	Politician
+Republican	"Love, Mia B."	RepMiaLove	Politician
+Democratic	"Lujan Grisham, Michelle"	RepLujanGrisham	Politician
+Democratic	"Maloney, Sean Patrick"	RepSeanMaloney	Politician
+Republican	"McSally, Martha"	RepMcSally	Politician
+Republican	"Kirk, Mark Steven"	SenatorKirk	Politician
+Republican	"Mica, John L."	RepJohnMica	Politician
+Republican	"Paul, Rand"	RandPaul	Politician
+Democratic	"Peters, Scott H."	RepScottPeters	Politician
+Democratic	"Pingree, Chellie"	chelliepingree	Politician
+Republican	"Reichert, David G."	davereichert	Politician
+Democratic	"Markey, Edward J."	senmarkey	Politician
+Republican	"Shimkus, John"	RepShimkus	Politician
+Republican	"Stewart, Chris"	RepChrisStewart	Politician
+Republican	"Toomey, Pat"	SenToomey	Politician
+Democratic	"Van Hollen, Chris"	ChrisVanHollen	Politician
+Democratic	"Vargas, Juan"	RepJuanVargas	Politician
+Republican	"Flores, Bill"	RepBillFlores	Politician
+Democratic	"Frankel, Lois"	RepLoisFrankel	Politician
+Democratic	"Green, Al"	RepAlGreen	Politician
+Democratic	"Heck, Denny"	RepDennyHeck	Politician
+Democratic	"Cardenas, Tony"	RepCardenas	Politician
+Democratic	"Doyle, Michael F."	USRepMikeDoyle	Politician
+Democratic	"Butterfield, G. K."	GKButterfield	Politician
+Democratic	"Cantwell, Maria"	SenatorCantwell	Politician
+Republican	"Corker, Bob"	BobCorker	Politician
+Republican	"Crapo, Mike"	MikeCrapo	Politician
+Democratic	"DelBene, Suzan K."	RepDelBene	Politician
+Republican	"Dold, Robert J."	RepDold	Politician
+Democratic	"Edwards, Donna F."	repdonnaedwards	Politician
+Republican	"Huelskamp, Tim"	CongHuelskamp	Politician
+Democratic	"Aguilar, Pete"	RepPeteAguilar	Politician
+Democratic	"Whitehouse, Sheldon"	SenWhitehouse	Politician
+Democratic	"Keating, William R."	USRepKeating	Politician
+Republican	"Kinzinger, Adam"	RepKinzinger	Politician
+Democratic	"Lipinski, Daniel"	RepLipinski	Politician
+Democratic	"McNerney, Jerry"	RepMcNerney	Politician
+Democratic	"Meeks, Gregory W."	GregoryMeeks	Politician
+Democratic	"Meng, Grace"	RepGraceMeng	Politician
+Republican	"Miller, Candice S."	CandiceMiller	Politician
+Republican	"Mullin, Markwayne"	RepMullin	Politician
+Republican	"Murphy, Tim"	RepTimMurphy	Politician
+Democratic	"Price, David E."	RepDavidEPrice	Politician
+Republican	"Roberts, Pat"	SenPatRoberts	Politician
+Republican	"Roby, Martha"	RepMarthaRoby	Politician
+Democratic	"Speier, Jackie"	RepSpeier	Politician
+Republican	"Tiberi, Patrick J."	PatTiberi	Politician
+Republican	"Valadao, David G."	RepDavidValadao	Politician
+Democratic	"Visclosky, Peter J."	RepVisclosky	Politician
+Republican	"Walberg, Tim"	RepWalberg	Politician
+Republican	"Zeldin, Lee M."	RepLeeZeldin	Politician
+Republican	"Latta, Robert E."	boblatta	Politician
+Democratic	"Lawrence, Brenda L."	RepLawrence	Politician
+Democratic	"Manchin, Joe, III"	Sen_JoeManchin	Politician
+Democratic	"Matsui, Doris O."	DorisMatsui	Politician
+Democratic	"McCaskill, Claire"	clairecmc	Politician
+Republican	"McClintock, Tom"	RepMcClintock	Politician
+Republican	"McHenry, Patrick T."	PatrickMcHenry	Politician
+Republican	"Miller, Jeff"	RepJeffMiller	Politician
+Democratic	"Pelosi, Nancy"	NancyPelosi	Politician
+Republican	"Tipton, Scott  R."	RepTipton	Politician
+Republican	"Amash, Justin"	justinamash	Politician
+Democratic	"Becerra, Xavier"	RepBecerra	Politician
+Republican	"Blackburn, Marsha"	MarshaBlackburn	Politician
+Democratic	"Bordallo, Madeleine Z."	NA	Politician
+Democratic	"Menendez, Robert"	SenatorMenendez	Politician
+Republican	"Carter, John R."	JudgeCarter	Politician
+Republican	"Chabot, Steve"	RepSteveChabot	Politician
+Republican	"Collins, Susan M."	SenatorCollins	Politician
+Republican	"Comstock, Barbara"	RepComstock	Politician
+Republican	"Cramer, Kevin"	RepKevinCramer	Politician
+Republican	"Davis, Rodney"	RodneyDavis	Politician
+Democratic	"Fattah, Chaka"	chakafattah	Politician
+Republican	"Granger, Kay"	RepKayGranger	Politician
+Republican	"Hartzler, Vicky"	RepHartzler	Politician
+Democratic	"Himes, James A."	jahimes	Politician
+Democratic	"Hirono, Mazie K."	maziehirono	Politician
+Republican	"Jolly, David"	USRepDavidJolly	Politician
+Democratic	"Mikulski, Barbara A."	SenatorBarb	Politician
+Democratic	"Dingell, Debbie"	RepDebDingell	Politician
+Democratic	"Engel, Eliot L."	RepEliotEngel	Politician
+Democratic	"Esty, Elizabeth H."	RepEsty	Politician
+Republican	"Fleischmann, Charles J. &#34;Chuck&#34;"	RepChuck	Politician
+Republican	"Franks, Trent"	RepTrentFranks	Politician
+Democratic	"Honda, Michael M."	RepMikeHonda	Politician
+Republican	"Hudson, Richard"	RepRichHudson	Politician
+Democratic	"Israel, Steve"	RepSteveIsrael	Politician
+Republican	"Cole, Tom"	TomColeOK04	Politician
+Democratic	"Connolly, Gerald E."	GerryConnolly	Politician
+Democratic	"Kaptur, Marcy"	RepMarcyKaptur	Politician
+Democratic	"Kilmer, Derek"	RepDerekKilmer	Politician
+Republican	"Kline, John"	repjohnkline	Politician
+Republican	"MacArthur, Thomas"	RepTomMacArthur	Politician
+Democratic	"McDermott, Jim"	RepJimMcDermott	Politician
+Republican	"Neugebauer, Randy"	RandyNeugebauer	Politician
+Republican	"Olson, Pete"	PeteOlson	Politician
+Democratic	"Pierluisi, Pedro R."	pedropierluisi	Politician
+Democratic	"Quigley, Mike"	RepMikeQuigley	Politician
+Democratic	"Rush, Bobby L."	RepBobbyRush	Politician
+Democratic	"Reid, Harry"	SenatorReid	Politician
+Republican	"Sasse, Ben"	BenSasse	Politician
+Republican	"DeSantis, Ron"	RepDeSantis	Politician
+Republican	"Diaz-Balart, Mario"	MarioDB	Politician
+Republican	"Graves, Garret"	RepGarretGraves	Politician
+Republican	"Graves, Sam"	RepSamGraves	Politician
+Republican	"Heck, Joseph J."	RepDennyHeck	Politician
+Republican	"Jenkins, Evan H."	RepEvanJenkins	Politician
+Republican	"Carter, Earl L. &#34;Buddy&#34;"	RepBuddyCarter	Politician
+Democratic	"Cicilline, David N."	RepCicilline	Politician
+Democratic	"Cooper, Jim"	repjimcooper	Politician
+Democratic	"Kelly, Robin L."	RepRobinKelly	Politician
+Republican	"Lankford, James"	SenatorLankford	Politician
+Democratic	"Lieu, Ted"	RepTedLieu	Politician
+Republican	"Lucas, Frank D."	RepFrankLucas	Politician
+Republican	"Noem, Kristi L."	RepKristiNoem	Politician
+Democratic	"Plaskett, Stacey E."	StaceyPlaskett	Politician
+Democratic	"Reed, Jack"	SenJackReed	Politician
+Republican	"Royce, Edward R."	RepEdRoyce	Politician
+Republican	"Young, Don"	repdonyoung	Politician
+Republican	"Alexander, Lamar"	SenAlexander	Politician
+Republican	"Bucshon, Larry"	RepLarryBucshon	Politician
+Republican	"Donovan, Daniel M., Jr."	RepDanDonovan	Politician
+Republican	"Duncan, Jeff"	RepJeffDuncan	Politician
+Democratic	"Garamendi, John"	RepGaramendi	Politician
+Republican	"Herrera Beutler, Jaime"	HerreraBeutler	Politician
+Republican	"Risch, James E."	SenatorRisch	Politician
+Democratic	"Johnson, Eddie Bernice"	RepEBJ	Politician
+Republican	"Johnson, Sam"	SamsPressShop	Politician
+Democratic	"Wasserman Schultz, Debbie"	RepDWStweets	Politician
+Democratic	"Lofgren, Zoe"	RepZoeLofgren	Politician
+Republican	"Rokita, Todd"	ToddRokita	Politician
+Democratic	"Sarbanes, John P."	RepSarbanes	Politician
+Democratic	"Sherman, Brad"	BradSherman	Politician
+Republican	"Blum, Rod"	RepRodBlum	Politician
+Democratic	"Brownley, Julia"	JuliaBrownley26	Politician
+Democratic	"Bustos, Cheri"	RepCheri	Politician
+Democratic	"Capuano, Michael E."	mikecapuano	Politician
+Democratic	"Carney, John C., Jr."	JohnCarneyDE	Politician
+Democratic	"Costa, Jim"	RepJimCosta	Politician
+Republican	"Crawford, Eric A. &#34;Rick&#34;"	RepRickCrawford	Politician
+Independent	"Sanders, Bernard"	SenatorSanders	Politician
+Republican	"Harris, Andy"	RepAndyHarrisMD	Politician
+Democratic	"Hastings, Alcee L."	RepHastingsFL	Politician
+Democratic	"Hoyer, Steny H."	WhipHoyer	Politician
+Republican	"Buchanan, Vern"	VernBuchanan	Politician
+Democratic	"Castor, Kathy"	USRepKCastor	Politician
+Democratic	"Clarke, Yvette D."	YvetteClarke	Politician
+Republican	"Moolenaar, John R."	RepMoolenaar	Politician
+Democratic	"Napolitano, Grace F."	gracenapolitano	Politician
+Republican	"Pitts, Joseph R."	NA	Politician
+Republican	"Price, Tom"	RepTomPrice	Politician
+Democratic	"Schatz, Brian"	brianschatz	Politician
+Republican	"Smith, Jason"	RepJasonSmith	Politician
+Democratic	"Tester, Jon"	SenatorTester	Politician
+Democratic	"Tsongas, Niki"	nikiinthehouse	Politician
+Republican	"Wilson, Joe"	RepJoeWilson	Politician
+Democratic	"Bennet, Michael F."	SenBennetCO	Politician
+Democratic	"Schumer, Charles E."	SenSchumer	Politician
+Republican	"Hice, Jody B."	CongressmanHice	Politician
+Republican	"Bishop, Mike"	RepMikeBishop	Politician
+Democratic	"Carson, Andre"	RepAndreCarson	Politician
+Democratic	"Duckworth, Tammy"	SenDuckworth	Politician
+Republican	"Jenkins, Lynn"	RepLynnJenkins	Politician
+Democratic	"Larsen, Rick"	RepRickLarsen	Politician
+Democratic	"Murphy, Christopher S."	ChrisMurphyCT	Politician
+Democratic	"Peterson, Collin C."	collinpeterson	Politician
+Republican	"Roskam, Peter J."	PeterRoskam	Politician
+Republican	"Schweikert, David"	RepDavid	Politician
+Republican	"Smith, Adrian"	RepAdrianSmith	Politician
+Democratic	"Takano, Mark"	RepMarkTakano	Politician
+Democratic	"Langevin, James R."	JimLangevin	Politician
+Republican	"Murkowski, Lisa"	lisamurkowski	Politician
+Democratic	"Murray, Patty"	PattyMurray	Politician
+Democratic	"Nelson, Bill"	SenBillNelson	Politician
+Democratic	"Pocan, Mark"	repmarkpocan	Politician
+Republican	"Posey, Bill"	congbillposey	Politician
+Republican	"Rigell, E. Scott"	RepScottRigell	Politician
+Republican	"Roe, David P."	DrPhilRoe	Politician
+Democratic	"Slaughter, Louise McIntosh"	louiseslaughter	Politician
+Republican	"Smith, Christopher H."	RepChrisSmith	Politician
+Republican	"Smith, Lamar"	LamarSmithTX21	Politician
+Democratic	"Thompson, Bennie G."	BennieGThompson	Politician
+Republican	"Barletta, Lou"	RepLouBarletta	Politician
+Democratic	"Bass, Karen"	RepKarenBass	Politician
+Democratic	"Blumenauer, Earl"	repblumenauer	Politician
+Democratic	"Brown, Sherrod"	SenSherrodBrown	Politician
+Republican	"Buck, Ken"	RepKenBuck	Politician
+Democratic	"Cuellar, Henry"	RepCuellar	Politician
+Democratic	"Davis, Danny K."	RepDannyDavis	Politician
+Democratic	"Gillibrand, Kirsten E."	SenGillibrand	Politician
+Democratic	"Graham, Gwen"	GwenGraham	Politician
+Republican	"Wicker, Roger F."	SenatorWicker	Politician
+Republican	"Wittman, Robert J."	RobWittman	Politician
+Republican	"Young, Todd C."	SenToddYoung	Politician
+Democratic	"Clark, Katherine M."	RepKClark	Politician
+Democratic	"Courtney, Joe"	RepJoeCourtney	Politician
+Democratic	"Gabbard, Tulsi"	TulsiPress	Politician
+Democratic	"Green, Gene"	RepGeneGreen	Politician
+Republican	"Griffith, H. Morgan"	RepMGriffith	Politician
+Democratic	"Heitkamp, Heidi"	SenatorHeitkamp	Politician
+Republican	"Johnson, Bill"	RepBillJohnson	Politician
+Republican	"Johnson, Ron"	SenRonJohnson	Politician
+Republican	"Luetkemeyer, Blaine"	RepBlainePress	Politician
+Republican	"McConnell, Mitch"	SenateMajLdr	Politician
+Democratic	"Nadler, Jerrold"	RepJerryNadler	Politician
+Democratic	"Pascrell, Bill, Jr."	BillPascrell	Politician
+Democratic	"Sewell, Terri A."	RepTerriSewell	Politician
+Democratic	"Takai, Mark"	RepMarkTakai	Politician
+Republican	"Thompson, Glenn"	CongressmanGT	Politician
+Democratic	"Titus, Dina"	repdinatitus	Politician
+Republican	"Turner, Michael R."	RepMikeTurner	Politician
+Republican	"Barton, Joe"	RepJoeBarton	Politician
+Democratic	"Chu, Judy"	RepJudyChu	Politician
+Democratic	"Conyers, John, Jr."	repjohnconyers	Politician
+Republican	"Cornyn, John"	JohnCornyn	Politician
+Republican	"Curbelo, Carlos"	RepCurbelo	Politician
+Democratic	"Davis, Susan A."	RepSusanDavis	Politician
+Republican	"DesJarlais, Scott"	DesJarlaisTN04	Politician
+Republican	"Gardner, Cory"	SenCoryGardner	Politician
+Republican	"Gowdy, Trey"	TGowdySC	Politician
+Democratic	"Hahn, Janice"	SupJaniceHahn	Politician
+Republican	"Harper, Gregg"	GreggHarper	Politician
+Democratic	"Vela, Filemon"	RepFilemonVela	Politician
+Democratic	"Waters, Maxine"	MaxineWaters	Politician
+Democratic	"Watson Coleman, Bonnie"	RepBWColeman	Politician
+Republican	"Whitfield, Ed"	RepEdWhitfield	Politician
+Democratic	"Wilson, Frederica S."	RepWilson	Politician
+Democratic	"Larson, John B."	RepJohnLarson	Politician
+Democratic	"Lewis, John"	repjohnlewis	Politician
+Republican	"LoBiondo, Frank A."	RepLoBiondo	Politician
+Democratic	"Lujan, Ben Ray"	repbenraylujan	Politician
+Republican	"Massie, Thomas"	RepThomasMassie	Politician
+Republican	"Newhouse, Dan"	RepNewhouse	Politician
+Democratic	"Pallone, Frank, Jr."	FrankPallone	Politician
+Republican	"Ros-Lehtinen, Ileana"	RosLehtinen	Politician
+Democratic	"Sablan, Gregorio Kilili Camacho"	NA	Politician
+Democratic	"Shaheen, Jeanne"	SenatorShaheen	Politician
+Republican	"Tillis, Thom"	SenThomTillis	Politician
+Republican	"McCain, John"	SenJohnMcCain	Politician
+Republican	"McMorris Rodgers, Cathy"	cathymcmorris	Politician
+Republican	"Mooney, Alexander X."	RepAlexMooney	Politician
+Democratic	"Neal, Richard E."	RepRichardNeal	Politician
+Republican	"Pittenger, Robert"	reppittenger	Politician
+Democratic	"Rice, Kathleen M."	RepKathleenRice	Politician
+Republican	"Rounds, Mike"	SenatorRounds	Politician
+Republican	"Simpson, Michael K."	CongMikeSimpson	Politician
+Democratic	"Thompson, Mike"	RepThompson	Politician
+Republican	"Wagner, Ann"	RepAnnWagner	Politician
+Republican	"Woodall, Rob"	RepRobWoodall	Politician
+Republican	"Sessions, Jeff"	jeffsessions	Politician
+Republican	"Vitter, David"	DavidVitter	Politician
+Democratic	"Eshoo, Anna G."	RepAnnaEshoo	Politician
+Republican	"Hanna, Richard L."	RepRichardHanna	Politician
+Republican	"Hill, J. French"	RepFrenchHill	Politician
+Democratic	"Hinojosa, Ruben"	USRepRHinojosa	Politician
+Independent	Nate Silver	NateSilver538	Pundit
+Independent	Megyn Kelly	megynkelly	Pundit
+Independent	Dave Rubin	RubinReport	Pundit
+Independent	John Stossel	JohnStossel	Pundit
+Independent	Steven Pinker	sapinker	Pundit
+Independent	Jonathan Haidt	JonHaidt	Pundit
+Independent	Bill Maher	billmaher	Pundit
+Independent	Thomas Friedman	tomfriedman	Pundit
+Independent	Fareed Zakaria	FareedZakaria	Pundit
