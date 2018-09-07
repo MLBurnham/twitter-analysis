@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+{% block content %}
+<!-- on the home page we are writing a loop to print all of the data in our
+posts. Flask uses Jinja2 so it doesn't look like a python loop  the
+curly brackets and percent indicate a code block syntax indicates you are
+opening a code block -->
+    {% for post in posts %}
+    <!-- html copied from the internet it specifies the formatting for the
+    content on this page -->
+    <article class="media content-section">
+      <div class="media-body">
+        <div class="article-metadata">
+            <!-- with post.author etc we specify the data to be posted in this loop -->
+          <a class="mr-2" href="#">{{ post.author }}</a>
+          <small class="text-muted">{{ post.date_posted }}</small>
+        </div>
+        <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
+        <p class="article-content">{{ post.content }}</p>
+      </div>
+    </article>
+    <!-- close the for loop -->
+    {% endfor%}
+<!-- content to be printed is in the double brackers. notice it uses the
+variable post and then the relevant methods. so post.title in the heading
+followed by post.author, post.date, and post.content.
+We are able to do this because we passed the post=posts argument to our
+template. -->
+{% endblock content %}
